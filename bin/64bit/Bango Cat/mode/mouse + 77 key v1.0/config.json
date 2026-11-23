@@ -1,0 +1,46 @@
+{
+  "BackgroundImageName": "bg.png",
+  "CatBackgroundImageName": "catbg.png",
+
+  "HasModel": true,
+  "CatModelPath": "model/cat",
+
+  "KeysImagePath": "keyboard",
+  "KeysImageName": [
+    "esc.png","f1.png","f2.png","f3.png","f4.png","f5.png","f6.png","f7.png","f8.png","f9.png","f10.png","f11.png","f12.png","delete.png",
+    "backtick.png","1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png","9.png","0.png","mainminus.png","mainequal.png","back.png",
+    "tab.png","q.png","w.png","e.png","r.png","t.png","y.png","u.png","i.png","o.png","p.png","lbracket.png","rbracket.png","backslash.png",
+    "caps.png","a.png","s.png","d.png","f.png","g.png","h.png","j.png","k.png","l.png","semicolon.png","quote.png","enter.png",
+    "lshift.png","z.png","x.png","c.png","v.png","b.png","n.png","m.png","comma.png","period.png","slash.png","rshift.png",
+    "lctrl.png","lwin.png","lalt.png","space.png","ralt.png","rctrl.png","up.png","down.png","left.png","right.png"
+  ],
+  "KeyUse": [
+    "esc","f1","f2","f3","f4","f5","f6","f7","f8","f9","f10","f11","f12","delete",
+    "`","1","2","3","4","5","6","7","8","9","0","-","=","backspace",
+    "tab","q","w","e","r","t","y","u","i","o","p","[","]","\\",
+    "caps","a","s","d","f","g","h","j","k","l",";","'","enter",
+    "lshift","z","x","c","v","b","n","m","<",">","/","rshift",
+    "lctrl","lwin","lalt","space","ralt","rctrl","up","down","left","right"
+  ],
+
+  "ModelHasLeftHandModel": false,
+  "ModelLeftHandModelPath": "",
+
+  "LeftHandImagePath": "lefthand",
+  "LeftHandUpImageName": "leftup.png",
+  "LeftHandImageName": [
+    "esc.png","f1.png","f2.png","f3.png","f4.png","f5.png","f6.png","f7.png","f8.png","f9.png","f10.png","f11.png","f12.png","delete.png",
+    "backtick.png","1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png","9.png","0.png","mainminus.png","mainequal.png","back.png",
+    "tab.png","q.png","w.png","e.png","r.png","t.png","y.png","u.png","i.png","o.png","p.png","lbracket.png","rbracket.png","backslash.png",
+    "caps.png","a.png","s.png","d.png","f.png","g.png","h.png","j.png","k.png","l.png","semicolon.png","quote.png","enter.png",
+    "lshift.png","z.png","x.png","c.png","v.png","b.png","n.png","m.png","comma.png","period.png","slash.png","rshift.png",
+    "lctrl.png","lwin.png","lalt.png","space.png","ralt.png","rctrl.png","up.png","down.png","left.png","right.png"
+  ],
+
+  "ModelHasRightHandModel": true,
+  "ModelRightHandModelPath": "model/cat right hand",
+
+  "RightHandImagePath": "",
+  "RightHandUpImageName": "",
+  "RightHandImageName": []
+}
